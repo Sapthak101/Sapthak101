@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="400" src="https://github.com/Sapthak101/Sapthak101/blob/main/NLP%20Researcher.png">
+<img align="center" width="1000" height="300" src="https://github.com/Sapthak101/Sapthak101/blob/main/NLP%20Researcher.png">
 <h1 align="center">Hi there 👋, I'm Sapthak Mohajon Turjya</h1>
 <h3 align="center">An enthusiastic future data scientist from Chattogram, Bangladesh</h3>
 
