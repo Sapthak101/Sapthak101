@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **NLP related projects, especially language translations**
 
-- 👨‍💻 My achievements [sapthak101.github.io/My-Portfolio/](sapthak101.github.io/My-Portfolio/)
+- 👨‍💻 My achievements [https://sapthak101.github.io/My-Portfolio/](https://sapthak101.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Metaverse, Cloud Computing, Game Theory**
 
