@@ -14,7 +14,7 @@
 
 - 👨‍💻 My achievements [https://sapthak101.github.io/My-Portfolio/](https://sapthak101.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Metaverse, Cloud Computing, Game Theory**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Metaverse, Cloud Computing, Game Theory**
 
 - 📫 How to reach me **sapthakmohajon6@gmail.com**
 
