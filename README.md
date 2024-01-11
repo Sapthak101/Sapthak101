@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Sapthak Mohajon Turjya</h1>
 <h3 align="center">An enthusiastic future data scientist from Chattogram, Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgeekyprawins%2Fgeekyprawins&psig=AOvVaw3MjcRZGp1OpNo8Hp5ZWMDo&ust=1705046700431000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD0mozw1IMDFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapthak101&label=Profile%20views&color=0e75b6&style=flat" alt="sapthak101" /> </p>
 
