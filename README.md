@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://www.usgs.gov/media/images/animation-representing-artificial-intelligence-ai">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapthak101&label=Profile%20views&color=0e75b6&style=flat" alt="sapthak101" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sapthak101&label=Profile%20views&color=0e75b6&style=flat" alt="sapthak101](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/AIML-brain2.gif?itok=DmdU-yFf)" /> </p>
 
 
 
