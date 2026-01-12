@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Sapthak Mohajon Turjya</h1>
 <h3 align="center">CS Researcher | MERN Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgeekyprawins%2Fgeekyprawins&psig=AOvVaw3MjcRZGp1OpNo8Hp5ZWMDo&ust=1705046700431000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD0mozw1IMDFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="https://www.usgs.gov/media/images/animation-representing-artificial-intelligence-ai">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapthak101&label=Profile%20views&color=0e75b6&style=flat" alt="sapthak101" /> </p>
 
