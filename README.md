@@ -1,8 +1,6 @@
-<img align="center" width="1000" src="https://github.com/Sapthak101/Sapthak101/blob/main/Capture_Sapthak.PNG">
+<img align="center" width="1500" src="https://github.com/Sapthak101/Sapthak101/blob/main/Capture_Sapthak.PNG">
 <h1 align="center">Hi there 👋, I'm Sapthak Mohajon Turjya</h1>
 <h3 align="center">CS Researcher | MERN Stack Developer</h3>
-
-<img align="right" alt="coding" width="400" src="https://www.usgs.gov/media/images/animation-representing-artificial-intelligence-ai">
 
 
 
@@ -19,8 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/sapthak-mohajon-turjya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapthak-mohajon-turjya" height="30" width="40" /></a>
 <a href="https://fb.com/sapthakmohajon101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sapthakmohajon101" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sapthak101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sapthak101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sapthakmohajon006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sapthakmohajon006" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
