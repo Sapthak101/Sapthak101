@@ -7,7 +7,7 @@
 
 - Checkout My Research Articles/Papers: [Google Scholar](https://scholar.google.com/citations?user=qeBr2e0AAAAJ&hl=en)
 
-- Skills: [Interdisciplinary CS Research, Computer Vision, NLP, MERN Stack Development, Quantum Computing, and Applied Game Theory]
+- Skills: Interdisciplinary CS Research, Computer Vision, NLP, MERN Stack Development, Quantum Computing, and Applied Game Theory
 
 - For Research Collaborations. Drop an Email at: **enquiries.sapthak6@gmail.com**
 
