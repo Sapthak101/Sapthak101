@@ -1,24 +1,20 @@
-<img align="center" width="1000" src="https://github.com/Sapthak101/Sapthak101/blob/main/NLP%20Researcher.png">
+<img align="center" width="1000" src="[https://github.com/Sapthak101/Sapthak101/blob/main/NLP%20Researcher.png](https://github.com/Sapthak101/Sapthak101/blob/main/Capture_Sapthak.PNG)">
 <h1 align="center">Hi there 👋, I'm Sapthak Mohajon Turjya</h1>
-<h3 align="center">An enthusiastic future data scientist from Chattogram, Bangladesh</h3>
+<h3 align="center">CS Researcher | MERN Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgeekyprawins%2Fgeekyprawins&psig=AOvVaw3MjcRZGp1OpNo8Hp5ZWMDo&ust=1705046700431000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD0mozw1IMDFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapthak101&label=Profile%20views&color=0e75b6&style=flat" alt="sapthak101" /> </p>
 
-- 🔭 I’m currently working on **excavating a theoretical approach to integrate language translation models into the Metaverse**
 
-- 🌱 I’m currently learning **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **NLP related projects, especially language translations**
+- 👨‍💻 My Research Articles/Papers [https://sapthak101.github.io/My-Portfolio/](https://sapthak101.github.io/My-Portfolio/](https://scholar.google.com/citations?user=qeBr2e0AAAAJ&hl=en))
 
-- 👨‍💻 My achievements [https://sapthak101.github.io/My-Portfolio/](https://sapthak101.github.io/My-Portfolio/)
+- 💬 Ask me about **Image processing, NLP, Cloud Computing, Game Theory, Quantum Computing**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Metaverse, Cloud Computing, Game Theory**
+- 📫 How to reach me **enquiries.sapthak6@gmail.com**
 
-- 📫 How to reach me **sapthakmohajon6@gmail.com**
-
-- 📄 Know about my experiences [Machine Learning (Supervised and Unsupervised), Data Structures (C and C++), Python, Java, Oracle](Machine Learning (Supervised and Unsupervised), Data Structures (C and C++), Python, Java, Oracle)
+- 📄 Skills: [Interdisciplinary CS Research, Computer Vision, NLP, MERN Stack Development, Quantum Computing, and Applied Game Theory]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
