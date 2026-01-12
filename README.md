@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="[https://github.com/Sapthak101/Sapthak101/blob/main/NLP%20Researcher.png](https://github.com/Sapthak101/Sapthak101/blob/main/Capture_Sapthak.PNG)">
+<img align="center" width="1000" src="https://github.com/Sapthak101/Sapthak101/blob/main/Capture_Sapthak.PNG">
 <h1 align="center">Hi there 👋, I'm Sapthak Mohajon Turjya</h1>
 <h3 align="center">CS Researcher | MERN Stack Developer</h3>
 
