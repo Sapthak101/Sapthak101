@@ -5,7 +5,7 @@
 
 
 
-- My Research Articles/Papers [https://sapthak101.github.io/My-Portfolio/](https://sapthak101.github.io/My-Portfolio/](https://scholar.google.com/citations?user=qeBr2e0AAAAJ&hl=en))
+- My Research Articles/Papers [Google Scholar](https://scholar.google.com/citations?user=qeBr2e0AAAAJ&hl=en)
 
 - Skills: [Interdisciplinary CS Research, Computer Vision, NLP, MERN Stack Development, Quantum Computing, and Applied Game Theory]
 
