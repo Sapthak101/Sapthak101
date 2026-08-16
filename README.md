@@ -1,6 +1,6 @@
 <img align="center" width="2000" src="https://github.com/Sapthak101/Sapthak101/blob/main/Capture1_Sapthak.PNG">
 <h1 align="center">Hi there, I'm Sapthak Mohajon Turjya</h1>
-<h3 align="center">CS Researcher | MERN Stack Developer</h3>
+<h3 align="center">PhD Scholar @NCAT | CS Researcher | MERN Stack Developer</h3>
 
 
 
